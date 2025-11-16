@@ -4,10 +4,10 @@ A framework for mapping cyber threat actors by correlating attack sophistication
 # Ploty.py
 ## Basic usage (output will be [input_name].html)
 ```bash
-python script.py threat_actors.csv
+python Ploty.py threat_actors.csv
 ```
 
 ## Specify custom output file
 ```bash
-python script.py threat_actors.csv -o output_chart.html
+python Ploty.py threat_actors.csv -o output_chart.html
 ```
