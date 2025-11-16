@@ -1,7 +1,7 @@
 # Threat_Graph
 A framework for mapping cyber threat actors by correlating attack sophistication, impact, and attack volume using structured, data-driven scoring models.
 
-Reference: https://medium.com/@t3l3m3try/impact-vs-sophistication-a-different-way-to-map-threat-actors-789eef1edce9 
+Reference: https://t3l3m3try.medium.com/impact-vs-sophistication-a-different-way-to-map-threat-actors-789eef1edce9 
 
 # Ploty.py
 ## Basic usage (output will be [input_name].html)
